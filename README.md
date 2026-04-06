@@ -1,1 +1,1 @@
-# qa_guru_hw_1
+# QA Guru HW №1
